@@ -1,5 +1,3 @@
-# university-database
-university-database
 # University Database Project
 
 This project is a Node.js application that connects to MongoDB Atlas to manage a database of university students, faculty, and courses.
